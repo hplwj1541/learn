@@ -12,6 +12,8 @@
     <modules>
         <module>pattern-proxy</module>
         <module>pattern-singleton</module>
+        <module>pattern-factory</module>
+        <module>pattern-prototype</module>
     </modules>
 
     <dependencyManagement>
