@@ -14,6 +14,7 @@
         <module>pattern-singleton</module>
         <module>pattern-factory</module>
         <module>pattern-prototype</module>
+        <module>pattern-strategy</module>
     </modules>
 
     <dependencyManagement>
