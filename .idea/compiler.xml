@@ -6,9 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="pattern-factory" />
+        <module name="pattern-prototype" />
         <module name="pattern-proxy" />
         <module name="pattern-singleton" />
+        <module name="pattern-strategy"/>
+        <module name="pattern-template" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pattern-strategy" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
