@@ -16,6 +16,9 @@
         <module>pattern-prototype</module>
         <module>pattern-strategy</module>
         <module>pattern-template</module>
+        <module>pattern-delegate</module>
+        <module>pattern-adapter</module>
+        <module>pattern-decorator</module>
     </modules>
 
     <dependencyManagement>
