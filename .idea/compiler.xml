@@ -19,7 +19,17 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="pattern-strategy" target="1.5" />
+      <module name="learn" target="1.7" />
+      <module name="pattern-adapter" target="1.7" />
+      <module name="pattern-decorator" target="1.7" />
+      <module name="pattern-delegate" target="1.7" />
+      <module name="pattern-factory" target="1.7" />
+      <module name="pattern-observer" target="1.7" />
+      <module name="pattern-prototype" target="1.7" />
+      <module name="pattern-proxy" target="1.7" />
+      <module name="pattern-singleton" target="1.7" />
+      <module name="pattern-strategy" target="1.7" />
+      <module name="pattern-template" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
