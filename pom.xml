@@ -20,6 +20,7 @@
         <module>pattern-adapter</module>
         <module>pattern-decorator</module>
         <module>pattern-observer</module>
+        <module>custom-mybatis</module>
     </modules>
 
     <dependencyManagement>
