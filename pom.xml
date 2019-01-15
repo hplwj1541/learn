@@ -15,6 +15,7 @@
         <module>pattern-proxy</module>
         <module>pattern-prototype</module>
         <module>pattern-strategy</module>
+        <module>pattern-template</module>
     </modules>
 
     <dependencyManagement>
